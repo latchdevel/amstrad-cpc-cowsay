@@ -6,7 +6,7 @@ Expansion ROM for the Amstrad CPC range of computers. Provides similar functiona
 
 To assemble, use RASM from https://github.com/EdouardBERGE/rasm or you can download the ROM file from the Releases page.
 
-![alt text](https://github.com/robdmob/CPC-cowsay/blob/main/cowsay.png?raw=true)
+![alt text](cowsay.png?raw=true)
 
 # RSX Commands
 
